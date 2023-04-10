@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DummyApp</string>
+    <string name="please_enter_your_first_name">Please enter your first name</string>
+    <string name="please_enter_your_last_name">Please enter your last name</string>
+    <string name="please_enter_your_email">Please enter your email</string>
+    <string name="please_enter_your_mobile_number">Please enter your mobile number</string>
+    <string name="add_user">Add User</string>
+    <string name="show_users">Show Users</string>
+    <string name="update_user">Update User</string>
+</resources>
